@@ -15,3 +15,5 @@ This lab aims to develop proficiency in Threat Actor Profiling and the MITRE ATT
 - Threat Intelligence Reports (CrowdStrike, Microsoft Threat intelligence report) – For analyzing real-world adversary behaviors and attack patterns.
 - Attack Chain Diagram Tools (Lucidchart) – For visualizing attack lifecycles and mapping security gaps.
 - Security Frameworks (NIST, CIS) – For aligning threat intelligence with industry best practices.
+### Lab Report
+[Threat Actor Profiling_Lab_Report_Donatus_Edeh.pdf](https://github.com/user-attachments/files/19161360/Threat.Actor.Profiling_Lab_Report_Donatus_Edeh.pdf)
